@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.Navbar {
+  background-color: aquamarine;
+}
+
+.Navbar a {
+  color: rgba(0, 0, 0, 0.733);
+  text-decoration: none;
+  margin: 10px;
+}
+
+.Navbar a.active {
+  color: black;
+  font-weight: bold;
+}

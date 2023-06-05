@@ -1,0 +1,22 @@
+.HomePage {
+    text-align: center;
+}
+
+.HomePage-NewColorDiv {
+    background-color: black;
+    height: 100px;
+}
+
+.HomePage-NewColorLink {
+    color: white;
+    font-size: 1.15rem;
+}
+
+.HomePage a:not(.HomePage-NewColorLink) {
+    color: black;
+}
+
+.HomePage-ColorsDiv {
+    display: flex;
+    flex-direction: column;
+}
